@@ -1,7 +1,7 @@
 <?php
 
 
-echo "<b>Teste</b>";
+echo "<b>Olá mundo!</b>";
 
 
 
