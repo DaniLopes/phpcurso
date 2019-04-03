@@ -15,8 +15,6 @@ $ip = $_SERVER["SCRIPT_NAME"]; //LOG DE ACESSO.
 echo $ip;
 
 
-
-
 exit();
 //tipos compostos
 
