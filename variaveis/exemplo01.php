@@ -27,7 +27,6 @@ $frutas = array("abacaxi","laranja","manga","apple");
 //tipos especiais
 $arquivo = fopen("exemplo01.php","r");
 //var_dump($arquivo);
-var_dump($arquivo);
 $nulo = NULL; //AUSENCIA DE VALOR //VAZIO FOI INICIADO mas já foi reservado um espaço na memoria.
 
 var_dump($nulo);
